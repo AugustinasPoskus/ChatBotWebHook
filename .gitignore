@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+out/
+#Gradle
+.gradletasknamecache
+.gradle/
+build/
+bin/
